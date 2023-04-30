@@ -1,1 +1,1 @@
-# Töltsd le ZIP-ként
+# Töltse le ZIP-ként és csomagolja ki
